@@ -1,0 +1,4 @@
+baseURL = 'https://babis.org/'
+languageCode = 'en-us'
+title = 'Valon Vinter HQ'
+theme = 'ananke'
